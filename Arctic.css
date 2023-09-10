@@ -51,7 +51,7 @@
   height: 200px;
   width: 600px;
   grid-gap: 17px;
-  margin: 30px auto 60px 0;
+  margin: 34px auto 60px;
 }
 
 .u-section-2 .u-gallery-inner-1 {
@@ -106,7 +106,6 @@
     height: 600px;
     width: 200px;
     margin-top: 33px;
-    margin-left: auto;
   }
 
   .u-section-2 .u-gallery-inner-1 {

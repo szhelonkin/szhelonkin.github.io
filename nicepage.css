@@ -41645,28 +41645,38 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-icon-1 {
   width: 43px;
   height: 43px;
-  margin: 44px auto 44px 44px;
+  margin: 55px auto 53px 300px;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
-    min-height: 155px;
+    min-height: 167px;
   }
 
   .u-footer .u-icon-1 {
     width: 68px;
     height: 68px;
-    margin-bottom: 43px;
-    margin-left: 44px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 219px;
     padding: 5px;
   }
 }
 @media (max-width: 991px) {
   .u-footer .u-icon-1 {
     width: 68px;
+    margin-left: 219px;
   }
 }
-
-
+@media (max-width: 767px) {
+  .u-footer .u-icon-1 {
+    margin-left: 164px;
+  }
+}
+@media (max-width: 575px) {
+  .u-footer .u-icon-1 {
+    margin-left: 103px;
+  }
+}
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
